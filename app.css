@@ -1,0 +1,22 @@
+/*U92725213*/
+
+.app {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header {
+    margin-bottom: 20px;
+  }
+  
+  main {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #888;
+  }
+  
